@@ -26,7 +26,7 @@ This project was made for learning purposes, honoring the literary legacy of Rab
 
 ## 🧑‍💻 Author
 
-**[Your Name](https://github.com/tanishkachormale)**  
+**[Tanishka Chormale](https://github.com/tanishkachormale)**  
 
 ## 📬 Contact
 
